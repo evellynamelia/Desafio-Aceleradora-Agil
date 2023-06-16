@@ -1,3 +1,6 @@
+# Código funcionando perfeitamente.
+# Este código "NÃO contém MYSQL"
+
 from datetime import datetime
 
 # Lista de armarzenamento dos pacientes cadastrados
