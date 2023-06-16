@@ -1,3 +1,6 @@
+# O Código que está funcionando perfeitamente é o que "NÃO CONTÉM MYSQL".
+# Este código não esta 100% com sua funcionalidade, apenas postei pelo fato de ter tentado colocar banco de dados no código. O código contem alguns erros de reprodução.
+
 from datetime import datetime
 import mysql.connector
 
