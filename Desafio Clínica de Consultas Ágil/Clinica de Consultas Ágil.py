@@ -115,7 +115,6 @@ def menu_principal():
         else:
             print("Opção inválida. Por favor, escolha uma opção válida.")
 
-# Chama a função do menu principal para iniciar o programa
 menu_principal()
 
 print("Obrigado por usar a Clínica de Consultas Ágil. Até logo!")
